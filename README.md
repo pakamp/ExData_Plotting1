@@ -1,13 +1,3 @@
-## I had a problem with Git and could not properly transfer the .png files
-## They are all <a href="https://www.dropbox.com/sh/eehqm2789mquyh3/AAC25NJvB5AXz0f9SsQ4A-3Ya">HERE</a>
-
-## Sorry and Thanks :)
-
-
-
-
-
-
 
 ## Introduction
 
